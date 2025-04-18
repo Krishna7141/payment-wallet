@@ -43,7 +43,7 @@ function Navbar() {
                         <div>
                             <Link
                                 className="border p-2 px-3 rounded-md hover:bg-[#3f62c0] bg-[#1E40AF] text-white font-medium"
-                                to={"https://www.google.com/"}
+                                to={"https://krishnavamsi-portfolio.vercel.app/"}
                                 target="_blank"
                             >
                                 About
